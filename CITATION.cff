@@ -4,7 +4,7 @@ message: If you use this transcription, please cite the dataset version and the 
 title: '醫事譚（1779 年，九州大學 イ-156） / Iji dan [Conversations on medical practice]: Transcription
   Dataset'
 type: dataset
-version: 0.1.0
+version: 0.2.0
 authors:
 - family-names: Chu
   given-names: Chen-Yu

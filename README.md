@@ -4,11 +4,11 @@
 
 Iji dan is a Literary Chinese collection of case accounts and reflections on medical practice by the Edo-period physician Tanaka Tekisho. This copy, held by the Medical Library at Kyushu University, was published in Kyoto by Hayashi Ihei in 1779. Individual records describe reasons for seeking care, bedside observations and outcomes. Other passages discuss the reading of classical sources, case experience, and training.
 
-## V0.1.0
+## V0.2.0
 
-全冊 18 幅皆有原圖定位，錄入見返、序、正文、跋及刊記。第 2、3 幅是同一開面，取第 3 幅讀見返；第 16、17 幅同刊記，取第 16 幅讀刊記，第 17 幅另記藏札。本版為 AI 輔助初錄，原圖疑字列有定位。
+全冊 18 幅皆有原圖定位，錄入見返、序、正文、跋及刊記。第 2、3 幅是同一開面，取第 3 幅讀見返；第 16、17 幅同刊記，取第 16 幅讀刊記，第 17 幅另記藏札。比對未見初稿的本機 OCR 候選後，回圖裁定採用 14 筆訂正。未定讀法及部分小字、訓點留待覆核。
 
-All 18 scans are indexed. The transcription covers the title leaf, preface, case accounts and discussions, afterword, and colophon. Scans 2–3 and 16–17 show repeated openings, with only non-repeated copy annotations recorded separately. This is an AI-assisted initial transcription with source-image references for uncertain readings.
+All 18 scans are indexed. The transcription covers the title leaf, preface, case accounts and discussions, afterword, and colophon. Scans 2–3 and 16–17 show repeated openings, with only non-repeated copy annotations recorded separately. Independent local OCR candidates were compared with the initial transcription. Targeted source-image review adopted 14 corrections. Some readings, small notes, and reading marks still need review.
 
 ## 資料與原件 / Data and source
 

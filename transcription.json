@@ -18,7 +18,7 @@
     "manifest_url": "https://kokusho.nijl.ac.jp/biblio/100262147/manifest",
     "manifest_sha256": "a5ce0267e219dabf9131e44f6f5567734eda01fef66993a429d280005dd8471e",
     "record_id": "NIJL100262147",
-    "edition": "0.1.0",
+    "edition": "0.2.0",
     "catalogue_main_scope": [
       3,
       4,
@@ -35,9 +35,9 @@
       15,
       16
     ],
-    "version": "0.1.0",
+    "version": "0.2.0",
     "dataset_title": "醫事譚（1779 年，九州大學 イ-156） / Iji dan [Conversations on medical practice]: Transcription Dataset",
-    "review_status": "initial-transcription",
+    "review_status": "targeted-image-adjudication",
     "editor": {
       "name": "Chu, Chen-Yu",
       "orcid": "0009-0003-9738-6914"
@@ -136,7 +136,7 @@
       "native_width": 6048,
       "native_height": 4032,
       "content_role": "preface-and-opening",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -251,7 +251,7 @@
       "native_width": 6048,
       "native_height": 4032,
       "content_role": "preface-and-opening",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -386,7 +386,7 @@
       "native_width": 6048,
       "native_height": 4032,
       "content_role": "author-text",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -474,7 +474,7 @@
       "native_width": 6048,
       "native_height": 4032,
       "content_role": "author-text",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -608,7 +608,7 @@
       "native_width": 6048,
       "native_height": 4032,
       "content_role": "author-text",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -791,7 +791,7 @@
       "native_width": 6048,
       "native_height": 4032,
       "content_role": "author-text",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -946,7 +946,7 @@
       "native_width": 6048,
       "native_height": 4032,
       "content_role": "author-text",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -1115,7 +1115,7 @@
       "native_width": 6048,
       "native_height": 4032,
       "content_role": "author-text",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -1277,7 +1277,7 @@
       "native_width": 6048,
       "native_height": 4032,
       "content_role": "author-text",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -1418,7 +1418,7 @@
       "native_width": 6048,
       "native_height": 4032,
       "content_role": "author-text",
-      "state": "initial-read",
+      "state": "ocr-compared-with-targeted-source-review",
       "sides": [
         {
           "side": "right",
@@ -1430,7 +1430,7 @@
               "text": "動而產者邪毒從血陷沒必至不救今爲舉一驗焉"
             },
             {
-              "text": "一婦姓姫十月發疹調理失宜熱陷疹沒喘逆煩燥"
+              "text": "一婦姓□十月發疹調理失宜熱陷疹沒喘逆煩燥"
             },
             {
               "text": "至于八日滴滴下水欲產不產已三日矣諸藥不効"
@@ -1495,7 +1495,7 @@
               "text": "起脹之初九十日死者及其發熱部位未定尙可圖"
             },
             {
-              "text": "之五六日死者率非藥力所及救偏璣言所論詳審"
+              "text": "之五六日死者率非藥力所及救偏璅言所論詳審"
             }
           ],
           "extras": [
@@ -1551,6 +1551,17 @@
           "context": "偏璣言",
           "candidates": [],
           "note": "第四欄「疥」、第七欄以原印段圈錄入、第十欄末「偏璣言」待核。此面是病者發疹後的照護敘述，未見接種或取用病原材料。"
+        },
+        {
+          "side": "right",
+          "column": 3,
+          "context": "□",
+          "candidates": [
+            "娘",
+            "姮",
+            "娠"
+          ],
+          "note": "原圖局部筆畫相連，暫留候選，後續續核。"
         }
       ],
       "observations": "右面：第三欄「姫」、「煩燥」及第八欄末「而」待核；淡色小印、列間返點按定位回圖。 左面：第四欄「疥」、第七欄以原印段圈錄入、第十欄末「偏璣言」待核。此面是病者發疹後的照護敘述，未見接種或取用病原材料。"
@@ -1566,7 +1577,7 @@
       "native_width": 6048,
       "native_height": 4032,
       "content_role": "author-text",
-      "state": "initial-read",
+      "state": "ocr-compared-with-targeted-source-review",
       "sides": [
         {
           "side": "right",
@@ -1587,7 +1598,7 @@
               "text": "一敗塗地思之不精察之不審而不之誤者未之有"
             },
             {
-              "text": "也故行之以思者其思之必精爲之以果者其察之"
+              "text": "也故行之以忠者其思之必精爲之以果者其察之"
             },
             {
               "text": "必審凡天下之事皆成敗乎玆至哉聖人之言矣"
@@ -1695,7 +1706,7 @@
       "native_width": 6048,
       "native_height": 4032,
       "content_role": "afterword-and-colophon",
-      "state": "initial-read",
+      "state": "ocr-compared-with-targeted-source-review",
       "sides": [
         {
           "side": "right",
@@ -1717,13 +1728,13 @@
               "text": "書醫事譚後"
             },
             {
-              "text": "是爲醫事譚適所翁撰無執"
+              "text": "是爲醫事譚適所翁撰焉就"
             },
             {
-              "text": "審翁云蓋皆出於手獨得之"
+              "text": "審翁之蓋皆出於□獨得之"
             },
             {
-              "text": "見屢試之後比諸格法云勒佩"
+              "text": "見屢試之後比諸拾陳言勦□"
             },
             {
               "text": "書以誇己長者非翅氷炭翁少"
@@ -1732,10 +1743,10 @@
               "text": "遊豐之臼杵臼杵城郭吐吞大"
             },
             {
-              "text": "海中諸峰俱勝乎嘗聞之豐"
+              "text": "海中□峰俱勝予嘗聞之豐"
             },
             {
-              "text": "人神遊多奇見今每與翁談"
+              "text": "人神遊多年及今每言翁談"
             }
           ],
           "extras": [
@@ -1784,6 +1795,46 @@
           "context": "非翅",
           "candidates": [],
           "note": "行草跋首、正文框線間八欄；小圈與返點另待覆核。第二欄末「執」、第三欄首「審」、第四欄「格」「勒佩」、第五欄「非翅」待核。"
+        },
+        {
+          "side": "left",
+          "column": 2,
+          "context": "焉就",
+          "candidates": [
+            "焉就",
+            "焉□"
+          ],
+          "note": "原圖局部筆畫相連，暫留候選，後續續核。"
+        },
+        {
+          "side": "left",
+          "column": 3,
+          "context": "□",
+          "candidates": [
+            "己",
+            "叟"
+          ],
+          "note": "原圖局部筆畫相連，暫留候選，後續續核。"
+        },
+        {
+          "side": "left",
+          "column": 4,
+          "context": "□",
+          "candidates": [
+            "倣",
+            "侔"
+          ],
+          "note": "原圖局部筆畫相連，暫留候選，後續續核。"
+        },
+        {
+          "side": "left",
+          "column": 7,
+          "context": "□",
+          "candidates": [
+            "澎",
+            "激"
+          ],
+          "note": "原圖局部筆畫相連，暫留候選，後續續核。"
         }
       ],
       "observations": "右面：本面只有欄框、版心字與上一印面的透字。 左面：行草跋首、正文框線間八欄；小圈與返點另待覆核。第二欄末「執」、第三欄首「審」、第四欄「格」「勒佩」、第五欄「非翅」待核。"
@@ -1799,28 +1850,28 @@
       "native_width": 6048,
       "native_height": 4032,
       "content_role": "afterword-and-colophon",
-      "state": "initial-read",
+      "state": "ocr-compared-with-targeted-source-review",
       "sides": [
         {
           "side": "right",
           "columns": [
             {
-              "text": "而叩之翁翁唯笑而不儀"
+              "text": "而証之翁翁唯言之不倦"
             },
             {
               "text": "翁有史學彼我二雜史涉"
             },
             {
-              "text": "獵纂治翁作又勁而有法"
+              "text": "獵纂洽翁作文勁而有法"
             },
             {
               "text": "予與論文者數矣蓋翁得"
             },
             {
-              "text": "作文宗訣云翁頃見訪携醫"
+              "text": "作文之訣云翁頃見訪携醫"
             },
             {
-              "text": "事談求予一言古藥之事"
+              "text": "事談求予一言方藥之事"
             },
             {
               "text": "予不學之因述予與翁交之由"
@@ -1849,7 +1900,7 @@
               "text": "清絢"
             },
             {
-              "text": "永田原書"
+              "text": "永世原書"
             }
           ],
           "extras": [
@@ -1912,6 +1963,26 @@
           "context": "永田原",
           "candidates": [],
           "note": "跋末見紀年及兩署名，各二枚黑印。末二欄名字「清絢」「永田原」待核。灰文為刊記透影。"
+        },
+        {
+          "side": "right",
+          "column": 3,
+          "context": "纂",
+          "candidates": [
+            "纂",
+            "該"
+          ],
+          "note": "原圖局部筆畫相連，暫留候選，後續續核。"
+        },
+        {
+          "side": "left",
+          "column": 3,
+          "context": "原",
+          "candidates": [
+            "原",
+            "厚"
+          ],
+          "note": "原圖局部筆畫相連，暫留候選，後續續核。"
         }
       ],
       "observations": "右面：行草跋續，保留八欄大字。「不儀」「彼我二」「纂治」「宗訣」「古藥」待核。返點、片假名及圈未逐符編碼。 左面：跋末見紀年及兩署名，各二枚黑印。末二欄名字「清絢」「永田原」待核。灰文為刊記透影。"
@@ -1927,7 +1998,7 @@
       "native_width": 6048,
       "native_height": 4032,
       "content_role": "afterword-and-colophon",
-      "state": "initial-read",
+      "state": "ocr-compared-with-targeted-source-review",
       "sides": [
         {
           "side": "right",
@@ -1946,7 +2017,7 @@
             {
               "type": "printed-small-text",
               "location": "書林地址小欄",
-              "text": "京二條通柳馬場東入町",
+              "text": "京二條通柳馬塲東江入町",
               "column_anchor": 3,
               "color": "unknown"
             },

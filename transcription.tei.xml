@@ -12,10 +12,10 @@
         </respStmt>
       </titleStmt>
       <editionStmt>
-        <edition>Transcription dataset v0.1.0</edition>
+        <edition>Transcription dataset v0.2.0</edition>
       </editionStmt>
       <publicationStmt>
-        <p>曲宸宇 (Chu, Chen-Yu). Dataset edition 0.1.0.</p>
+        <p>曲宸宇 (Chu, Chen-Yu). Dataset edition 0.2.0.</p>
       </publicationStmt>
       <sourceDesc>
         <msDesc>
@@ -1005,7 +1005,7 @@
               <seg type="diplomatic-text">動而產者邪毒從血陷沒必至不救今爲舉一驗焉</seg>
             </ab>
             <ab type="column" n="3" xml:id="f12-r-c03">
-              <seg type="diplomatic-text">一婦姓姫十月發疹調理失宜熱陷疹沒喘逆煩燥</seg>
+              <seg type="diplomatic-text">一婦姓□十月發疹調理失宜熱陷疹沒喘逆煩燥</seg>
             </ab>
             <ab type="column" n="4" xml:id="f12-r-c04">
               <seg type="diplomatic-text">至于八日滴滴下水欲產不產已三日矣諸藥不効</seg>
@@ -1062,7 +1062,7 @@
               <seg type="diplomatic-text">起脹之初九十日死者及其發熱部位未定尙可圖</seg>
             </ab>
             <ab type="column" n="10" xml:id="f12-l-c10">
-              <seg type="diplomatic-text">之五六日死者率非藥力所及救偏璣言所論詳審</seg>
+              <seg type="diplomatic-text">之五六日死者率非藥力所及救偏璅言所論詳審</seg>
             </ab>
             <ab type="page-feature" subtype="running-title" corresp="#f12-l-c10">
               <label>版心題</label>
@@ -1095,6 +1095,13 @@
               <quote>偏璣言</quote>
               <note type="editorial">第四欄「疥」、第七欄以原印段圈錄入、第十欄末「偏璣言」待核。此面是病者發疹後的照護敘述，未見接種或取用病原材料。</note>
             </ab>
+            <ab type="transcription-issue" n="right:3">
+              <quote>□</quote>
+              <seg type="candidate">娘</seg>
+              <seg type="candidate">姮</seg>
+              <seg type="candidate">娠</seg>
+              <note type="editorial">原圖局部筆畫相連，暫留候選，後續續核。</note>
+            </ab>
           </div>
         </div>
         <pb n="13" facs="#f13" />
@@ -1116,7 +1123,7 @@
               <seg type="diplomatic-text">一敗塗地思之不精察之不審而不之誤者未之有</seg>
             </ab>
             <ab type="column" n="6" xml:id="f13-r-c06">
-              <seg type="diplomatic-text">也故行之以思者其思之必精爲之以果者其察之</seg>
+              <seg type="diplomatic-text">也故行之以忠者其思之必精爲之以果者其察之</seg>
             </ab>
             <ab type="column" n="7" xml:id="f13-r-c07">
               <seg type="diplomatic-text">必審凡天下之事皆成敗乎玆至哉聖人之言矣</seg>
@@ -1196,13 +1203,13 @@
               <seg type="diplomatic-text">書醫事譚後</seg>
             </ab>
             <ab type="column" n="2" xml:id="f14-l-c02">
-              <seg type="diplomatic-text">是爲醫事譚適所翁撰無執</seg>
+              <seg type="diplomatic-text">是爲醫事譚適所翁撰焉就</seg>
             </ab>
             <ab type="column" n="3" xml:id="f14-l-c03">
-              <seg type="diplomatic-text">審翁云蓋皆出於手獨得之</seg>
+              <seg type="diplomatic-text">審翁之蓋皆出於□獨得之</seg>
             </ab>
             <ab type="column" n="4" xml:id="f14-l-c04">
-              <seg type="diplomatic-text">見屢試之後比諸格法云勒佩</seg>
+              <seg type="diplomatic-text">見屢試之後比諸拾陳言勦□</seg>
             </ab>
             <ab type="column" n="5" xml:id="f14-l-c05">
               <seg type="diplomatic-text">書以誇己長者非翅氷炭翁少</seg>
@@ -1211,10 +1218,10 @@
               <seg type="diplomatic-text">遊豐之臼杵臼杵城郭吐吞大</seg>
             </ab>
             <ab type="column" n="7" xml:id="f14-l-c07">
-              <seg type="diplomatic-text">海中諸峰俱勝乎嘗聞之豐</seg>
+              <seg type="diplomatic-text">海中□峰俱勝予嘗聞之豐</seg>
             </ab>
             <ab type="column" n="8" xml:id="f14-l-c08">
-              <seg type="diplomatic-text">人神遊多奇見今每與翁談</seg>
+              <seg type="diplomatic-text">人神遊多年及今每言翁談</seg>
             </ab>
             <ab type="page-feature" subtype="running-title" corresp="#f14-l-c08">
               <label>版心</label>
@@ -1243,28 +1250,52 @@
               <quote>非翅</quote>
               <note type="editorial">行草跋首、正文框線間八欄；小圈與返點另待覆核。第二欄末「執」、第三欄首「審」、第四欄「格」「勒佩」、第五欄「非翅」待核。</note>
             </ab>
+            <ab type="transcription-issue" n="left:2">
+              <quote>焉就</quote>
+              <seg type="candidate">焉就</seg>
+              <seg type="candidate">焉□</seg>
+              <note type="editorial">原圖局部筆畫相連，暫留候選，後續續核。</note>
+            </ab>
+            <ab type="transcription-issue" n="left:3">
+              <quote>□</quote>
+              <seg type="candidate">己</seg>
+              <seg type="candidate">叟</seg>
+              <note type="editorial">原圖局部筆畫相連，暫留候選，後續續核。</note>
+            </ab>
+            <ab type="transcription-issue" n="left:4">
+              <quote>□</quote>
+              <seg type="candidate">倣</seg>
+              <seg type="candidate">侔</seg>
+              <note type="editorial">原圖局部筆畫相連，暫留候選，後續續核。</note>
+            </ab>
+            <ab type="transcription-issue" n="left:7">
+              <quote>□</quote>
+              <seg type="candidate">澎</seg>
+              <seg type="candidate">激</seg>
+              <note type="editorial">原圖局部筆畫相連，暫留候選，後續續核。</note>
+            </ab>
           </div>
         </div>
         <pb n="15" facs="#f15" />
         <div n="15" type="scan" subtype="afterword-and-colophon">
           <div type="page-face" n="right">
             <ab type="column" n="1" xml:id="f15-r-c01">
-              <seg type="diplomatic-text">而叩之翁翁唯笑而不儀</seg>
+              <seg type="diplomatic-text">而証之翁翁唯言之不倦</seg>
             </ab>
             <ab type="column" n="2" xml:id="f15-r-c02">
               <seg type="diplomatic-text">翁有史學彼我二雜史涉</seg>
             </ab>
             <ab type="column" n="3" xml:id="f15-r-c03">
-              <seg type="diplomatic-text">獵纂治翁作又勁而有法</seg>
+              <seg type="diplomatic-text">獵纂洽翁作文勁而有法</seg>
             </ab>
             <ab type="column" n="4" xml:id="f15-r-c04">
               <seg type="diplomatic-text">予與論文者數矣蓋翁得</seg>
             </ab>
             <ab type="column" n="5" xml:id="f15-r-c05">
-              <seg type="diplomatic-text">作文宗訣云翁頃見訪携醫</seg>
+              <seg type="diplomatic-text">作文之訣云翁頃見訪携醫</seg>
             </ab>
             <ab type="column" n="6" xml:id="f15-r-c06">
-              <seg type="diplomatic-text">事談求予一言古藥之事</seg>
+              <seg type="diplomatic-text">事談求予一言方藥之事</seg>
             </ab>
             <ab type="column" n="7" xml:id="f15-r-c07">
               <seg type="diplomatic-text">予不學之因述予與翁交之由</seg>
@@ -1285,7 +1316,7 @@
               <seg type="diplomatic-text">清絢</seg>
             </ab>
             <ab type="column" n="3" xml:id="f15-l-c03">
-              <seg type="diplomatic-text">永田原書</seg>
+              <seg type="diplomatic-text">永世原書</seg>
             </ab>
             <ab type="page-feature" subtype="running-title" corresp="#f15-l-c03">
               <label>版心</label>
@@ -1322,6 +1353,18 @@
               <quote>永田原</quote>
               <note type="editorial">跋末見紀年及兩署名，各二枚黑印。末二欄名字「清絢」「永田原」待核。灰文為刊記透影。</note>
             </ab>
+            <ab type="transcription-issue" n="right:3">
+              <quote>纂</quote>
+              <seg type="candidate">纂</seg>
+              <seg type="candidate">該</seg>
+              <note type="editorial">原圖局部筆畫相連，暫留候選，後續續核。</note>
+            </ab>
+            <ab type="transcription-issue" n="left:3">
+              <quote>原</quote>
+              <seg type="candidate">原</seg>
+              <seg type="candidate">厚</seg>
+              <note type="editorial">原圖局部筆畫相連，暫留候選，後續續核。</note>
+            </ab>
           </div>
         </div>
         <pb n="16" facs="#f16" />
@@ -1338,7 +1381,7 @@
             </ab>
             <ab type="page-feature" subtype="printed-small-text" corresp="#f16-r-c03">
               <label>書林地址小欄</label>
-              <seg type="diplomatic-text" rend="unknown">京二條通柳馬場東入町</seg>
+              <seg type="diplomatic-text" rend="unknown">京二條通柳馬塲東江入町</seg>
             </ab>
             <ab type="page-feature" subtype="printed-small-text" corresp="#f16-r-c03">
               <label>下緣墨色館登錄號</label>
