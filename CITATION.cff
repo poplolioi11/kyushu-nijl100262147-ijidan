@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: If you use this transcription, please cite the dataset version and the source
+  copy.
+title: '醫事譚（1779 年，九州大學 イ-156） / Iji dan [Conversations on medical practice]: Transcription
+  Dataset'
+type: dataset
+version: 0.1.0
+authors:
+- family-names: Chu
+  given-names: Chen-Yu
+  orcid: https://orcid.org/0009-0003-9738-6914
+repository-code: https://github.com/poplolioi11/kyushu-nijl100262147-ijidan
+keywords:
+- 醫事譚
+- 醫事談
+- 医事譚
+- 田中信藏
+- 田必大
+- 江戶醫學史
+- 臨床醫案
+- 九州大學
+- Tanaka Tekisho
+- Iji dan
+- Edo medical history
+- historical case records
+- kanbun
